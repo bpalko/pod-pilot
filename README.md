@@ -1,4 +1,4 @@
-# K8s Pod Deployer
+# Pod Pilot
 Interact with a K8s API to control the lifecycle of a pod
 
 ## Kind
